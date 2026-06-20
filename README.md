@@ -3,7 +3,7 @@
 A sleek, responsive, and interactive web-based implementation of the classic Rock, Paper, Scissors game. Built entirely with vanilla web technologies, this project provides a clean user interface and a smooth gameplay experience against a randomized computer opponent.
 
 ## 🚀 Live Demo
-You can play the game live here: [trivedh123.github.io/stone-paper-scissors]([(https://trivedh123.github.io/stone-paper-scissors/))
+You can play the game live here: [Live Demo](https://trivedh123.github.io/stone-paper-scissors/)
 
 ## ✨ Features
 * **Interactive UI:** Smooth transitions and clear visual feedback for user selections.
